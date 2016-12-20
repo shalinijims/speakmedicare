@@ -7,18 +7,6 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Rails project on Cloud9 IDE!
+hi
+“Speakmedicare – An Online Doctor Consultation Portal” is designed and implemented keeping all the aspects of user. The main objective of Online Doctor Consultation is to provide Patients and Doctors with excellent platform to come together and solve health issues without going physically to the hospital or standing in a long queue for doctor appointment. Keeping our objective in mind, we have created a world renowned online consultation services that will touch the souls of millions of people all over the globe.
 
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://speakmedicare-shalinijims-7.c9.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
